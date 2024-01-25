@@ -5,7 +5,11 @@ January 24, 2023
 COMP 3005
 ```
 
+## Video Demo
 
+https://youtu.be/c0vPJ9s8WdM
+
+## Supported Operations
 
 ### Selection
 
@@ -53,7 +57,7 @@ Here is an example that will set all `city` entries to `Vancouver` as the select
 python3 query_process.py --select 'friends' 'city' --set 'city' 'Vancouver'
 ```
 
-This example uses the matching operand to only use the `set` operand in certain conditions, in this only when `age>25` and `city==Ottawa`:
+This example uses the matching operand to only use the `--set` operand in certain conditions, in this only when `age>25` and `city==Ottawa`:
 
 ```bash
 python3 query_process.py --select 'friends' 'age>25' 'city==Ottawa' --set 'city' 'Vancouver'
