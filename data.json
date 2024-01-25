@@ -1,0 +1,109 @@
+{
+    "friends": [
+        {
+            "id": 0,
+            "city": "Toronto",
+            "age": 29,
+            "name": "Dixie Atkins",
+            "email": "dixieatkins@example.com",
+            "phone": "+1 (936) 600-1234"
+        },
+        {
+            "id": 1,
+            "city": "Ottawa",
+            "age": 37,
+            "name": "Carolyn Fowler",
+            "email": "carolynfowler@example.com",
+            "phone": "+1 (945) 532-1234"
+        },
+        {
+            "id": 2,
+            "city": "Montreal",
+            "age": 32,
+            "name": "Mayo Richards",
+            "email": "mayorichards@example.com",
+            "phone": "+1 (869) 465-1234"
+        },
+        {
+            "id": 3,
+            "city": "Toronto",
+            "age": 22,
+            "name": "Susanne Saunders",
+            "email": "susannesaunders@example.com",
+            "phone": "+1 (978) 429-1234"
+        },
+        {
+            "id": 4,
+            "city": "Vancouver",
+            "age": 34,
+            "name": "Robyn Cain",
+            "email": "robyncain@example.com",
+            "phone": "+1 (912) 569-1234"
+        },
+        {
+            "id": 5,
+            "city": "Toronto",
+            "age": 25,
+            "name": "Corina Christian",
+            "email": "corinachristian@example.com",
+            "phone": "+1 (923) 572-1234"
+        },
+        {
+            "id": 6,
+            "city": "Toronto",
+            "age": 27,
+            "name": "Michelle Martinez",
+            "email": "michellemartinez@example.com",
+            "phone": "+1 (907) 430-1234"
+        },
+        {
+            "id": 7,
+            "city": "Vancouver",
+            "age": 28,
+            "name": "Montoya Glass",
+            "email": "montoyaglass@example.com",
+            "phone": "+1 (956) 454-1234"
+        },
+        {
+            "id": 8,
+            "city": "Toronto",
+            "age": 21,
+            "name": "Alisha Foley",
+            "email": "alishafoley@example.com",
+            "phone": "+1 (838) 577-1234"
+        },
+        {
+            "id": 9,
+            "city": "Ottawa",
+            "age": 31,
+            "name": "Bennett Nelson",
+            "email": "bennettnelson@example.com",
+            "phone": "+1 (846) 596-1234"
+        }
+    ],
+
+
+    "universities": [
+        {
+            "id": 0,
+            "University Name": "Carleton University",
+            "city": "Ottawa"
+        },
+        {
+            "id": 1,
+            "University Name": "University of Toronto",
+            "city": "Toronto"
+        },
+        {
+            "id": 2,
+            "University Name": "McGill University",
+            "city": "Montreal"
+        },
+        {
+            "id": 3,
+            "University Name": "University of British Columbia",
+            "city": "Vancouver"
+        }
+    ]
+
+}
